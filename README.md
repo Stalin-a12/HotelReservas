@@ -70,12 +70,3 @@ Editar
 
 ---
 
-### 📥 ¿Qué debes hacer ahora?
-
-1. **Copia este contenido y reemplaza tu `README.md` en VS Code.**
-2. Guarda los cambios y ejecuta:
-
-```bash
-git add README.md
-git commit -m "README.md completo añadido"
-git push
